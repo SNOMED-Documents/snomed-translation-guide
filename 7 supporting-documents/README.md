@@ -1,32 +1,24 @@
-# 7. Supporting documents
+# Supporting documents
 
-**SNOMED CT Document Library**
+**SNOMED CT Document Library**&#x20;
 
-  * **Overviews** : <https://confluence.ihtsdotools.org/display/DOC/Overviews>
-  * **Guides** : <https://confluence.ihtsdotools.org/display/DOC/Guides>
-    * Starter Guide: <https://confluence.ihtsdotools.org/display/DOCSTART>
-    * Editorial Guide: <https://confluence.ihtsdotools.org/display/DOCEG>
-  * **Specifications** : <https://confluence.ihtsdotools.org/display/DOC/Specifications>
-    * Template Syntax Specification: <https://confluence.ihtsdotools.org/display/DOCSTS>
-  * **SNOMED glossary** : <https://confluence.ihtsdotools.org/display/DOCGLOSS/>
+[SNOMED CT Document Library](https://app.gitbook.com/o/h8Z6qGxuQrzM9vbx5bPT/s/5ePKL1wPtOcE6DS3HJBR/ "mention")
 
-****
+***
 
 **National translation guidelines developed by the SNOMED International member countries:**
 
-<https://www.snomed.org/our-customers/members>
-
-  
+[https://www.snomed.org/our-customers/members](https://www.snomed.org/our-customers/members)
 
 **Documents consulted for the development of these guidelines**
 
 Cabré Castellvi, T. (1999). _Terminology: Theory, Methods and Applications._ Amsterdam/Philadelphia: John Benjamins.
 
-COTSOES (2003). _Recommendations for Terminology Work._ Retrieved from <http://www.cotsoes.org/en-publications>
+COTSOES (2003). _Recommendations for Terminology Work._ Retrieved from [http://www.cotsoes.org/en-publications](http://www.cotsoes.org/en-publications)
 
 INFOTERM (2005). _Guidelines for Terminology Policies._ Paris: UNESCO.
 
-International Health Terminology Standards Development Organisation (2012). _A methodology and_ _toolkit for evaluating SNOMED CT Translation Quality_. Retrieved from [https://confluence.ihtsdotools.org/download/attachments/18780052/TQA_background_20120810_v0%2015.doc?api=v2 ](https://confluence.ihtsdotools.org/download/attachments/18780052/TQA_background_20120810_v0%2015.doc?api=v2)
+International Health Terminology Standards Development Organisation (2012). _A methodology and_ _toolkit for evaluating SNOMED CT Translation Quality_. Retrieved from [https://confluence.ihtsdotools.org/download/attachments/18780052/TQA\_background\_20120810\_v0%2015.doc?api=v2](https://confluence.ihtsdotools.org/download/attachments/18780052/TQA_background_20120810_v0%2015.doc?api=v2)
 
 ISO 1087-1 ((1969, 1990, 1998) 2000). _Terminology work – Vocabulary – Part 1: Theory and application._ Geneva: International Organization for Standardization.
 
@@ -42,11 +34,7 @@ Pavel, S., & Nolet, D. (2001). _Handbook of Terminology._ Ottawa: Public Works a
 
 Wüster, E. (1979/1985). _Einführung in die Allgemeine Terminologielehre und Terminologische Lexikographie._ Copenhagen Business School.
 
-  
-
 **Further reading**
-
-  
 
 Bodenreider, O., Smith, B., & Burgun, A. (2004). The Ontology-Epistemology Divide. A Case Study in Medical Terminology. In A. Varzi, & L. Vieu (Eds.), _Proceedings of FOIS 2004, International Conference on Formal Ontology and Information Systems._ Turin, 4-6 November 2004.
 

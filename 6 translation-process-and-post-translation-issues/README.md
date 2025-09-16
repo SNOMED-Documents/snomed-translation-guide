@@ -44,3 +44,10 @@ A project manager and/or coordinator should be appointed to carry out a continuo
 The clinical validation of the translated descriptions plays an important role in the translation of the SNOMED CT terminology into the target language. Some descriptions reflect very complicated or rarely used concepts, and there is a risk that both translator and reviewer, despite all efforts, may have misunderstood the concept in the source terminology. There is also a risk that a particular description, however correct it may be, may be psychologically unacceptable to clinicians if they are used to employing a particular description or phrase for a particular concept. Validation should therefore be carried out by health and social care providers to ensure that the translation is useful in clinical, cultural and social settings.
 
 In addition to the validation of the translated descriptions, a policy for the maintenance of the target language terminology and feedback to SNOMED international is required. If a concept added in a national extension is to be included in the SNOMED CT International Release it must have a FSN in English.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Translation+Guide&entry.670899847=Translation%20process%20and%20post-translation%20issues" class="button primary">Provide Feedback</a>

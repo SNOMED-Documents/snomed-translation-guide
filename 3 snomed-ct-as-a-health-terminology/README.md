@@ -149,3 +149,10 @@ SNOMED International has numerous resources to promote the understanding and use
 The Editorial Guide provides detailed information on the rules under which the international content of SNOMED CT is authored. It describes the scope, hierarchies, authoring principles, style guidelines and concept model rules of SNOMED CT for each domain ([http://snomed.org/eg](http://snomed.org/eg)).
 
 For example, when translating the Body structure hierarchy, translators are presented with a large number of concepts represented by terms containing the words “structure”, “part of”, “entire” and “all”, which should be interpreted with caution (for more details see Appendix B of the Editorial Guide).
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Translation+Guide&entry.670899847=SNOMED%20CT%20as%20a%20health%20terminology" class="button primary">Provide Feedback</a>

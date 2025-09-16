@@ -25,3 +25,10 @@ According to ISO 1087-1:2000 **conceptual relationships** can be divided into hi
 In terminology work, the definition of a concept is extremely important. A definition describes the characteristics of a concept to delimit it from neighboring concepts. Definitions are therefore essential for the clear assignment of terms to the underlying concepts. There are different types of definitions (analytical, encyclopaedical). Definitions can be written in natural language or in a (semi-)formal language.
 
 Definitions play a key role in the translation of SNOMED CT (see Section 4). Descriptions cannot be translated literally but their meaning (i.e. their conceptual content) must first be clarified. This is the only way to ensure that the meaning of the description is correctly reflected in the target language. In SNOMED CT concepts are defined in different ways (see Section 3.2).
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Translation+Guide&entry.670899847=An%20introduction%20to%20terminological%20principles" class="button primary">Provide Feedback</a>

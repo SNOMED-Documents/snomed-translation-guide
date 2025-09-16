@@ -12,3 +12,10 @@ Table 4 shows the four (4) **structural** and **process** -related quality chara
 | Process   | Translation reviews (two-stage review process required)                                                                              | <mark style="color:green;">**GREEN**</mark> |
 
 **Table 4 – Structural and process-related quality characteristics with SMART rating of&#x20;**<mark style="color:green;">**GREEN**</mark>
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Translation+Guide&entry.670899847=Appendix%20A%3A%20Translation%20Quality%20Assessment" class="button primary">Provide Feedback</a>

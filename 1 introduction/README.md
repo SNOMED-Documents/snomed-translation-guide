@@ -35,3 +35,10 @@ Requests about inconsistencies, errors or proposed changes to the core terminolo
 ## Audience
 
 The target group of this document are all persons directly involved in the translation of SNOMED CT into another language, i.e. translators, reviewers, domain experts, validators as well as managers and members of an editorial board or equivalent group of experts who define the linguistic and terminological guidelines for the specific translation of the target language.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Translation+Guide&entry.670899847=Introduction" class="button primary">Provide Feedback</a>

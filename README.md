@@ -9,3 +9,10 @@ These general guidelines may be used as a template to develop national guideline
 ***
 
 {% include "https://app.gitbook.com/s/5ePKL1wPtOcE6DS3HJBR/~/reusable/MLPTPVV150ldNmCkOl87/" %}
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Translation+Guide&entry.670899847=Guidelines%20for%20Translation%20of%20SNOMED%20CT" class="button primary">Provide Feedback</a>

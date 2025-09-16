@@ -257,3 +257,10 @@ The development of translation templates takes some time, but has the following 
 * When a link between the translation template and the concepts to which it has been applied is stored in a database, translation templates ensure that all dependent concepts to be reviewed can be traced back if the national translation of a nested concept needs to be corrected or if the FSN of a nested concept changes in SNOMED International and the change has an impact on the understanding of the concept in the target language.
 
 Research is being conducted to investigate the possibility of storing the relationships between translation templates and their output descriptions in the local language in Refset format.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Translation+Guide&entry.670899847=Translating%20SNOMED%20CT" class="button primary">Provide Feedback</a>

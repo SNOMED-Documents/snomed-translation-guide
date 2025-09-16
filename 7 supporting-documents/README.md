@@ -53,3 +53,10 @@ Spackman, K. A., & Reynoso G. (2004). Examining SNOMED from the perspective of f
 Toft, B. H. (2004). _Virksomhedsdatabaser – hvorfor og hvordan? En praktisk guide til terminologiarbejde_ (Industriel Databases – Why and How? A Practical Guide to Terminology Work). University of Southern Denmark.
 
 Wermuth, M.-C., Walravens, M., & Lambot M.-A. (2022). Collaboration and communities of practice in the field of medical ontology translation. (P. Cadwell, F. Federici, & S. O’Brien, Eds.) _The Journal of Specialised Translation_(37), 75-98.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=Translation+Guide&entry.670899847=Supporting%20documents" class="button primary">Provide Feedback</a>
